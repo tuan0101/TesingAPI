@@ -1,6 +1,6 @@
 {
   "userList":[
-    {"userName": 'ABCDEFG', "totalScore": 1200}, 
-    {"userName": 'tuan', "totalScore": 300}
+    {"userName": "ABCDEFG", "totalScore": 1200}, 
+    {"userName": "tuan", "totalScore": 300}
   ]
 }
