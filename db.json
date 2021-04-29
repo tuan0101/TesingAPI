@@ -1,6 +1,6 @@
 {"rankList":[
-  {"userName": "ABCDEFG", "avatar" : 5, "team": "sweet", "cityName":"Philly", "totalScore": 1200, "rank": 100},
-  {"userName": "tuan", "avatar" : 1, "team": "savory", "cityName":"Philly", "totalScore": 300, "rank": 101},
-  {"userName": "tuan", "avatar" : 1, "team": "savory", "cityName":"Philly", "totalScore": 300, "rank": 102}
+  {"userName": "ABCDEFG", "avatar" : 5, "team": "sweet", "cityName": "Philly", "totalScore": 1200, "rank": 100},
+  {"userName": "tuan", "avatar" : 1, "team": "savory", "cityName": "Philly", "totalScore": 300, "rank": 101},
+  {"userName": "tuan", "avatar" : 1, "team": "savory", "cityName": "Philly", "totalScore": 300, "rank": 102}
 ]
 }
